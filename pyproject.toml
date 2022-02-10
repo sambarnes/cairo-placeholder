@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cairo-placeholder"
-version = "0.0.1"
+version = "0.0.2"
 description = "Example project for cairo-glyph"
 authors = ["Your Name <you@example.com>"]
 license = "MIT License"
