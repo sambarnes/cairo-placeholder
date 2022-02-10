@@ -1,0 +1,5 @@
+dist
+*.egg-info
+venv
+*accounts.json
+__pycache__
